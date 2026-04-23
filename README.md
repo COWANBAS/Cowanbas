@@ -1,0 +1,1 @@
+Estudante de Engenharia Civil, atualmente no quinto semestre da faculdade. Tenho experiência e conhecimento com Excel, Word, AutoCAD, Python e JavaScript. Estudo programação e investimentos como hobby, focando em aprender JavaScript, Batch, Shell e Python para automatizar tarefas do meu dia a dia
